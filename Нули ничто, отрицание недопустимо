@@ -1,0 +1,10 @@
+pos_in_list = -1
+my_list = [42, 69, 322, 13, 0, 99, -5, 9, 8, 7, -6, 5]
+while True:
+    pos_in_list = pos_in_list + 1
+    if my_list[pos_in_list] > 0:
+        print(my_list[pos_in_list])
+    elif my_list[pos_in_list] == 0:
+        continue
+    else:
+        break
