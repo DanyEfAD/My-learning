@@ -12,4 +12,5 @@ for X in range (3, 21):
         print (f''' ::{X}:: {Answer}- the password !! ''')
     else:
         print(f''' :{X}:: {Answer}- the password !! ''')
+    Answer = ''
 
