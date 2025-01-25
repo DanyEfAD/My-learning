@@ -13,7 +13,7 @@ while 1 != 0:
     if  '0' in StrName:
         break
 print(ListOfStudents)
-#Kos = 1 #попытался укусить больше чем могу сейчас
+#Kos = 1 #допилить хотелось бы
 #Grades = [5,4,5,5]
 # = ()
 #print('Еще? 1- да / 2 нет')
